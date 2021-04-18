@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ethan Kane Vellacott
+- 👀 In Python, I’m interested in processing media, and asset databases.
+- 👀 In C#, I’m interested in Unity; I love procedural generation and animation, and custom tools.
+- 👀 In Javascript, I’m interested in developing creative things for the web.
+- 🌱 I’m currently learning React and Typescript
+- 💞️ I’m looking to broaden my horizons and find software development work outside the creative industries
